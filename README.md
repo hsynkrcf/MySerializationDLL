@@ -1,0 +1,2 @@
+# MySerializationLibrary
+XML-JSON-BINARY
