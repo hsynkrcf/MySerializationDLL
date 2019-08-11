@@ -75,7 +75,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SerilestirLib\SerilestirLib.csproj">
+    <ProjectReference Include="..\SerializationLibrary\SerializationLibrary.csproj">
       <Project>{14e4d272-8d14-4cec-b3cf-1f6ebb9797ad}</Project>
       <Name>SerilestirLib</Name>
     </ProjectReference>
