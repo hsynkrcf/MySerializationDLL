@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilestirLib", "SerilestirLib\SerilestirLib.csproj", "{14E4D272-8D14-4CEC-B3CF-1F6EBB9797AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationLibrary", "SerilestirLib\SerializationLibrary.csproj", "{14E4D272-8D14-4CEC-B3CF-1F6EBB9797AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{3D48FCB8-59A7-4535-A7BE-8AE8383ABADF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationTest", "WindowsFormsApp1\SerializationTest.csproj", "{3D48FCB8-59A7-4535-A7BE-8AE8383ABADF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
